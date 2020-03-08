@@ -1,0 +1,19 @@
+#what .container .boxes .box{
+  display: flex;
+  padding: 1rem;
+  text-align: left;
+  justify-content: space-around;
+}
+#what .container .boxes .box i{
+  align-self: center;
+  margin-right: 1rem;
+  margin-bottom: 0;
+}
+
+#what .container h2{
+  margin-bottom: 1.5rem;
+}
+
+#contact-box .map{
+  flex: 2;
+}
