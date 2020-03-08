@@ -260,7 +260,7 @@ a{
   padding: 0.5rem;
 }
 
-#contact button{
+#contact input[type="submit"]{
   width: 100%;
   border: none;
   border-radius:  5px;
